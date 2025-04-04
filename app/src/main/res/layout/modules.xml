@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="8dp">
+
+
+    <TextView
+        android:id="@+id/moduleView"
+        android:layout_width="183dp"
+        android:layout_height="100dp"
+        android:textSize="15sp"
+        android:textColor="@color/material_dynamic_secondary20"
+        android:layout_marginLeft="23dp"/>
+
+    <TextView
+        android:id="@+id/CreditPart"
+        android:layout_width="191dp"
+        android:layout_height="110dp"
+
+        android:textSize="14sp" />
+</LinearLayout>
